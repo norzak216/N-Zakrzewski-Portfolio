@@ -1,0 +1,2 @@
+My name is Nora Zakrzewski and I am a student of mathematics and data science. This repository serves as a portfolio of some of my work. 
+It contains projects from my coursework in R, Python, and Tableau.
