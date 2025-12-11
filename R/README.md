@@ -1,4 +1,4 @@
-**ClusterAnalysis.R:**
+**CIA Cluster Analysis:**
 A statistical analysis of CIA country data using regression and k-means clustering to uncover GDP predictors and global country groupings.
 
 **Midterm.R :**
