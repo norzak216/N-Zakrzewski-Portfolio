@@ -3,3 +3,6 @@ A statistical analysis of CIA country data using regression and k-means clusteri
 
 **Midterm.R :**
 This is a project in which I demonstrate the usage of the caret R package, A comprehensive package for machine learning, offering tools for model training, hyperparameter tuning, and model evaluation across various algorithms.
+
+**Opioid Crisis :**
+This is a statistical analysis of Opioid Crisis related data, implementing significance tests, trends, and clustering in order to display the epidemic numerically and suggest relief models for the Appalachian region in particular.
